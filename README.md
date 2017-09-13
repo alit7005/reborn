@@ -1,4 +1,4 @@
-# [BDReborn V6 (Final Version)](https://telegram.me/BDReborn)
+# [(Final Version)](https://telegram.me/alit7005)
 
 **An advanced and powerful administration bot based on NEW TG-CLI
 
@@ -22,54 +22,40 @@
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/BeyondTeam/BDReborn.git
-cd BDReborn
+git clone https://github.com/alit7005/Reborn.git
+cd Reborn
 chmod +x beyond.sh
 ./beyond.sh install
 ./beyond.sh 
 # Enter a phone number & confirmation code.
 
 # For Auto Launch:
-cd BDReborn
+cd Reborn
 chmod 777 autobd.sh
 screen ./autobd.sh
 ```
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/BeyondTeam/BDReborn.git && cd BDReborn && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
+cd $HOME && git clone https://github.com/alit7005/Reborn.git && cd Reborn && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
 
 OR
 
-cd $HOME && git clone https://github.com/BeyondTeam/BDReborn.git && cd BDReborn && chmod +x beyond.sh && ./beyond.sh install && chmod 777 autobd.sh && screen ./autobd.sh
+cd $HOME && git clone https://github.com/alit7005/Reborn.git && cd Reborn && chmod +x beyond.sh && ./beyond.sh install && chmod 777 autobd.sh && screen ./autobd.sh
 ```
-
-* * *
-
-# Support and Development
-
-More information [Beyond Global Chat](https://telegram.me/joinchat/AAAAAEIDQ8HTjezV4syUSA)
-
-# Special thanks to
-[@MrHalix](https://github.com/MrHalix)
-
-[@Vysheng](https://github.com/vysheng)
 
 * * *
 
 # Developers!
 
-[SoLiD](https://github.com/solid021) ([Telegram](https://telegram.me/SoLiD))
+[ali](https://github.com/alit7005) ([Telegram](https://telegram.me/alit7005))
 
-[To0fan](https://github.com/To0fan) ([Telegram](https://telegram.me/ToOfan))
+# sudo!
+[omid](https://github.com/omid_dd3) ([Telegram](https://telegram.me/omid_dd3))
 
-[MAKAN](https://github.com/makanj) ([Telegram](https://telegram.me/MAKAN))
+[kazem](https://github.com/wolfturrkish2000) ([Telegram](https://telegram.me/@wolfturrkish2000))
 
 
-### Our Telegram channel:
+### Our Telegram:
 
-[@BeyondTeam](https://telegram.me/BeyondTeam)
-
-### Our Web Site:
-
-[Beyond Development Forum](https://Beyond-Dev.iR)
+[@alit7005](https://telegram.me/alit7005)
